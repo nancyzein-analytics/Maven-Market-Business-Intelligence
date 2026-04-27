@@ -1,37 +1,50 @@
-## 📊 Maven Market Business Intelligence Dashboard  
+# 📊 Maven Market – Business Intelligence Dashboard
 
-### 🛠 Tools Used
-- Power BI  
-- Excel  
+## 🧩 Overview
+This project presents a Business Intelligence dashboard built for **Maven Market** to analyze retail performance across products, customers, and regions.  
+The goal is to transform raw sales data into clear, actionable insights that support better business decisions.
 
----
-
-### 📈 Project Overview
-This project analyzes retail data from Maven Market to uncover insights related to sales performance, customer behavior, and product trends.  
-
-The dashboard helps businesses make data-driven decisions by visualizing key metrics and identifying growth opportunities.
+The dashboard was developed using **Power BI (Data modeling, DAX measures, and interactive visualizations)** with a focus on performance tracking, trend analysis, and identifying growth opportunities.
 
 ---
 
-### 🔍 Key Insights
-- Sales trends and revenue performance  
-- Top-selling products and categories  
-- Customer purchasing behavior  
-- Regional and store performance analysis  
-- Key KPIs tracking for business performance  
+## 🛠 Tools & Technologies
+- Power BI (Data modeling, DAX measures, interactive dashboards)
+- Microsoft Excel (Data preparation and cleaning)
 
 ---
 
-### 🎯 Project Goal
-To provide clear and actionable insights that help businesses understand their data and improve decision-making processes.
+## 📂 Project Objectives
+- Analyze overall sales performance over time  
+- Identify top-performing products and categories  
+- Understand customer purchasing patterns  
+- Evaluate store and regional performance  
+- Track key business KPIs for decision-making  
 
 ---
 
-### 📁 Project Files
-- Power BI (.pbix) file is available in this repository  
-- Download and open it using Power BI Desktop to explore the dashboard  
+## 📈 Key Insights
+- Clear visibility of revenue trends and seasonal performance  
+- Identification of best-selling and underperforming products  
+- Customer segmentation based on purchasing behavior  
+- Regional comparison of sales performance  
+- KPI tracking for overall business health  
 
 ---
 
-### 🔗 Project Link
-https://github.com/nancyzein-analytics/Maven-Market-Business-Intelligence
+## 📊 Dashboard Preview
+
+### Sales & Performance Overview
+![Dashboard Overview 1](https://github.com/user-attachments/assets/c9e27095-9a92-42ca-bfe8-422cd2e94e98)
+
+### Product & Customer Analysis
+![Dashboard Overview 2](https://github.com/user-attachments/assets/d8819e07-2b40-4dcb-9a70-892f66d9d8a2)
+
+---
+
+## 💡 What I Learned from This Project
+This project helped me understand how to move from raw data to meaningful business insights using Power BI.  
+
+I improved my skills in working with **DAX measures**, building data relationships, and structuring a dashboard in a way that supports real business questions.  
+
+It also gave me a better sense of how to choose the right KPIs and present data in a clean, decision-focused way rather than just creating visuals.

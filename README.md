@@ -35,10 +35,10 @@ The dashboard was developed using **Power BI (Data modeling, DAX measures, and i
 ## 📊 Dashboard Preview
 
 ### Sales & Performance Overview
-![Dashboard Overview 1](https://github.com/user-attachments/assets/c9e27095-9a92-42ca-bfe8-422cd2e94e98)
+(https://github.com/user-attachments/assets/c9e27095-9a92-42ca-bfe8-422cd2e94e98)
 
-### Product & Customer Analysis
-![Dashboard Overview 2](https://github.com/user-attachments/assets/d8819e07-2b40-4dcb-9a70-892f66d9d8a2)
+### Data Model & Relationships
+(https://github.com/user-attachments/assets/d8819e07-2b40-4dcb-9a70-892f66d9d8a2)
 
 ---
 
